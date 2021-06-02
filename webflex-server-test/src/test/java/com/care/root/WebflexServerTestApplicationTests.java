@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.care.root;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MovieViewTestApplicationTests {
+class WebflexServerTestApplicationTests {
 
 	@Test
 	void contextLoads() {
